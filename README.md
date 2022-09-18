@@ -1,2 +1,2 @@
 # Crazy_Leds
-Crazy_Leds is the powerful 6W RGB individually addresible backligfht for 7 inch quadcopters.
+Crazy_Leds is the powerful 6W RGB individually addresible led bar for 7 inch quadcopters. If you fell that regular led bar brings not enough light and power - this is very good choise for you. 
