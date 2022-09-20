@@ -16,9 +16,11 @@ And it just looks amazing!
 
 This project based on 3W RGB leds. Here is some specifications of them:
 
-![leds_dimentions](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/3D/png/main_PCB_3D_preview.png "leds_dimentions")
+![leds_dimentions](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/leds_specifications/leds_dimentions.PNG "leds_dimentions")
 
-![leds_specifications](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/3D/png/main_PCB_3D_preview.png "leds_specifications")
+![leds_dimentions](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/leds_specifications/leds_dimentions_improved.PNG "leds_dimentions")
+
+![leds_specifications](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/leds_specifications/leds_specifications.PNG "leds_specifications")
 
 Another components
 
