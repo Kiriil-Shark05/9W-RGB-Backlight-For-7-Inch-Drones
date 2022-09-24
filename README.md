@@ -14,16 +14,22 @@ And it just looks amazing!
 
 ## Hardware
 
-This project based on 3W RGB leds. Here is some specifications of them:
+The project includes two types of PCBs: main PCB and PDBs. 
+Let's look at each type in detail:
+
+
+
+### Main PCB
+Main PCB is the lighting board itself. It based on 3W RGB LEDs. 
+Here is some specifications of them:
 
 ![leds_specifications](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/leds_specifications/leds_specifications.png "leds_specifications")
 
-Another components
+Another important component is WS2811 LED driver. It drives the LEDs and makes the lighting individually addressable. Thanks to the LED driver, we can change the color and brightness of every particular LED by a single data line. There is also opportinity (написать, что можно соеденять линии данных между собой)
 
-bom file
+(Из чего ёще состоит плата)
 
-pcb layout, dimentions
+(размеры, layouts, может 3d view)
 
-Schematic
-
-Schematic desciption
+(характериситки платы)
+### PDBs
