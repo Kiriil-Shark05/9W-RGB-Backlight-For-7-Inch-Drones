@@ -42,8 +42,8 @@ The full list of the components and the schematic you can find in the project re
 
 | PCB Layout        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| ![leds_specifications](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/layouts/main_PCB_layout.png "Main PCB Layout")      | right-aligned | $1600 |
-| ![leds_specifications](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/dimetions/main_PCB_dimentions.PNG "Main PCB dimentions")     | centered      |   $12 |
+| ![Main PCB Layout](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/layouts/main_PCB_layout.png "Main PCB Layout") |![Main PCB dimentions](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/dimetions/main_PCB_dimentions.PNG "Main PCB dimentions") | $1600 |
+|      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
 
