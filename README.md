@@ -47,7 +47,7 @@ The full list of the components and the schematic you can find in the project re
 
 
 
-| ![Main PCB Layout](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/layouts/main_PCB_layout.png  "Main PCB Layout")     | ![Main PCB dimentions](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/dimetions/main_PCB_dimentions.PNG "Main PCB dimentions")           |
+| ![Main PCB Layout](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/layouts/main_PCB_layout2.png  "Main PCB Layout")     | ![Main PCB dimentions](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/dimetions/main_PCB_dimentions.PNG "Main PCB dimentions")           |
 | ------------- |-------------| 
 | col 3 is      | right-aligned |
 | col 2 is      | centered      |   
