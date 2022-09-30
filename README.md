@@ -43,6 +43,8 @@ The board also has a two-position switch, so you can always physically power off
 The full list of the components and the schematic you can find in the project repository.
 
 
+
+
 |    PCB Layout   |
 | :-------------: |
 |   ![Main PCB Layout](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/layouts/main_PCB_layout.png  "Main PCB Layout")    |
