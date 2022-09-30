@@ -61,7 +61,7 @@ The full list of the components and the schematic you can find in the project re
 
 
 
-|      ![Main PCB Layout](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/layouts/main_PCB_layout.png "Main PCB Layout")   |
+|      ![Main PCB Layout](https://github.com/Kiriil-Shark05/Crazy_Leds/blob/main/PCB/layouts/main_PCB_layout2.png "Main PCB Layout")   |
 | :-------------: |
 |   **PCB Layout**    |
 
